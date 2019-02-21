@@ -10,3 +10,8 @@ Collaborate
 Make more commits
 Interact with integrations
 Merge to master branch
+
+Create a Branch 
+Branching is a key concept within Git. Everything in Git lives on a branch. By default, the production version of your project lives in the master branch. 
+
+When you’re ready to experiment with a new feature or fix an issue, create a new branch of the project. The branch will look exactly like master at first, but any changes you make will only be reflected in your branch. 
